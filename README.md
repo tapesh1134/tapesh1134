@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Tapesh Sharma</h1>
 <h3 align="center">🚀 Developer | MERN Stack | Blockchain | Open to Work</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on **[Smart SIP App](https://github.com/yourusername/smart-sip-app)**  
 - 🌱 I’m currently learning **Next.js**, **Web3.js**, **Solidity**  
 - 👯 I’m looking to collaborate on **Blockchain Projects**  
-- 💬 Ask me about **MERN Stack, Blockchain, SIP Investment Apps**  
-- 📫 How to reach me **yourname@email.com**  
+- 💬 Ask me about **MERN Stack, Blockchain, SIP Investment Apps**
 - ⚡ Fun fact: I love gaming and building apps that solve real-world problems!
 
 ---
@@ -28,13 +27,6 @@
 | **[Blockchain Gaming Platform](https://github.com/yourusername/blockchain-gaming-platform)** | React, Solidity, Web3.js | 🚀 Coming Soon |
 | **[Smart SIP Investment App](https://github.com/yourusername/smart-sip-app)** | React Native, Node.js | 🚀 Coming Soon |
 | **[Weather Dashboard](https://github.com/yourusername/weather-dashboard)** | React, Node.js, Weather API | 🌐 [View Project](#) |
-
----
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- *Coming soon: My journey building a Blockchain Game Platform!*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
