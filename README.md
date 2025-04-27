@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tapesh Sharma</h1>
 <h3 align="center">🚀 Developer | MERN Stack | Blockchain | Open to Work</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/6a/6a5d75fb19b736f2fa0bb220a911e4b3_w200.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br />
 
