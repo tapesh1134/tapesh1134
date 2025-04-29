@@ -23,10 +23,9 @@
 
 | Project | Tech Stack | Live Demo |
 |:--------|:-----------|:----------|
-| **[Evently - Real-Time Event Manager](https://github.com/yourusername/evently)** | MERN, Socket.io | 🚀 Coming Soon |
+| **[Evently - Real-Time Event Manager](https://github.com/yourusername/evently)** | MERN, Socket.io | 🌐 [View Project](https://eventlytbppp.netlify.app/) |
 | **[Blockchain Gaming Platform](https://github.com/yourusername/blockchain-gaming-platform)** | React, Solidity, Web3.js | 🚀 Coming Soon |
 | **[Smart SIP Investment App](https://github.com/yourusername/smart-sip-app)** | React Native, Node.js | 🚀 Coming Soon |
-| **[Weather Dashboard](https://github.com/yourusername/weather-dashboard)** | React, Node.js, Weather API | 🌐 [View Project](#) |
 
 ---
 
