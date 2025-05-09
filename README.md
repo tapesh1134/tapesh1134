@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tapesh Sharma</h1>
 <h3 align="center">🚀 Developer | MERN Stack | Blockchain | Open to Work</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-<br />
-- 🔭 I’m currently working on **[Smart SIP App](https://github.com/yourusername/smart-sip-app)**  
-- 🌱 I’m currently learning **Next.js**, **Web3.js**, **Solidity**  
-- 👯 I’m looking to collaborate on **Blockchain Projects**  
-- 💬 Ask me about **MERN Stack, Blockchain, SIP Investment Apps**
-- ⚡ Fun fact: I love gaming and building apps that solve real-world problems!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="400" />
+</p>
 
 ---
+
+- 🔭 I’m currently working on [**Smart SIP App**](https://github.com/yourusername/smart-sip-app)  
+- 🌱 I’m currently learning **Next.js**, **Web3.js**, **Solidity**  
+- 👯 I’m looking to collaborate on **Blockchain Projects**  
+- 💬 Ask me about **MERN Stack, Blockchain, SIP Investment Apps**  
+- ⚡ **Fun fact:** I love gaming and building apps that solve real-world problems!
+
+---
+
 
 ## 🛠️ Tech Stack
 
