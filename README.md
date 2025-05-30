@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 - 🔭 I’m currently working on [**Smart SIP App**](https://github.com/yourusername/smart-sip-app)  
 - 🌱 I’m currently learning **Next.js**, **Web3.js**, **Solidity**  
 - 👯 I’m looking to collaborate on **Blockchain Projects**  
